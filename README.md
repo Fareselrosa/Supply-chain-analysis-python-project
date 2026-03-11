@@ -22,3 +22,8 @@ An executive-level data audit of over **180,000 supply chain transactions**. Thi
 * `Supply_chain_audit.ipynb`: Full Python analysis and visualization.
 * `Data/`: (Optional) Folder containing the raw dataset (if size permits).
 * `README.md`: Project summary and executive findings.
+
+---
+## 🔗 Connect with Me
+* **Portfolio:** [https://fares-mubarak.super.site/]
+* **LinkedIn:** [https://www.linkedin.com/in/fares-mubarak/]
