@@ -1,4 +1,5 @@
 # Supply Chain Audit: Profit Recovery & Logistics Optimization 📈
+<img width="401" height="391" alt="Screenshot 2026-03-11 081609" src="https://github.com/user-attachments/assets/c5e2fdd3-12e4-4225-a228-38310150fb7a" />
 
 ## 📌 Project Overview
 An executive-level data audit of over **180,000 supply chain transactions**. This project diagnoses the root causes of margin erosion and a reported **54.8% delay rate**, providing data-driven solutions to stabilize profitability and operational efficiency.
